@@ -10,7 +10,7 @@ This is a simple web-based Drum Kit project.
 ## How to Use
 1. Open `index.html` in your browser.
 2. Press the keys `w, a, s, d, j, k, l` to play drum sounds.
-3. live :
+3. webiste here:https://devipriyaramesh97.github.io/Drum-kit/
 
 ## Made With
 - HTML
